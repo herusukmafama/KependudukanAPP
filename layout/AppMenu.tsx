@@ -24,6 +24,7 @@ const AppMenu = () => {
                 { label: 'Invalid State', icon: 'pi pi-fw pi-exclamation-circle', to: '/uikit/invalidstate' },
                 { label: 'Button', icon: 'pi pi-fw pi-mobile', to: '/uikit/button', class: 'rotated-icon' },
                 { label: 'Table', icon: 'pi pi-fw pi-table', to: '/uikit/table' },
+                { label: 'Data Warga', icon: 'pi pi-fw pi-table', to: '/uikit/datawarga' },
                 { label: 'List', icon: 'pi pi-fw pi-list', to: '/uikit/list' },
                 { label: 'Tree', icon: 'pi pi-fw pi-share-alt', to: '/uikit/tree' },
                 { label: 'Panel', icon: 'pi pi-fw pi-tablet', to: '/uikit/panel' },
