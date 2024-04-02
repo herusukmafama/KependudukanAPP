@@ -152,6 +152,8 @@ declare namespace Demo {
 
     //CustomerService
     type Customer = {
+        dw_insert_date: Date;
+        dw_ktp: any;
         id?: number;
         name?: string;
         country?: ICountryObject;
